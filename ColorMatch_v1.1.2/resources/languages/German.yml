@@ -1,12 +1,12 @@
-## English translation by CreeperFace
+## German translation by BlawoHD
 ---
-join: "Welcome to Color Match"
-join_others: "%1 joined."
-leave: "Leaving arena..."
-leave_others: "%1 left."
-arena_doesnt_exist: "&cArena doesn´t exist"
-arena_already_exist: "&cArena already exists"
-arena_create: "&eArena successfully created!"
+join: "Willkommen bei Color Match"
+join_others: "%1 ist gejoint."
+leave: "Arena verlassen..."
+leave_others: "%1 ist geleavt."
+arena_doesnt_exist: "&cArena existiert nicht"
+arena_already_exist: "&cArena existiert bereits"
+arena_create: "&eArena wurde erfolgreich erstellt!"
 start_game: "&l&1Game started!"
 death: "%1 death! %2 players left"
 send_to_main_world: "&2returning to lobby..."
