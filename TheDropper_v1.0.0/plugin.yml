@@ -1,7 +1,9 @@
 name: TheDropper
 main: TheDropper\Main
 version: 1.0.0
-api: 1.1.0
+api: [1.0.0, 2.0.0, 3.0.0-ALPHA1]
+author: Dreambuild
+authors: [BlawoHD]
 commands:
     td:
         usage: /td <addarena/regsign> <worldname> <amount/[line3]> [line4]
