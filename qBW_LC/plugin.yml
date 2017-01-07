@@ -1,0 +1,18 @@
+name: qBW
+api: [1.0, 2.0]
+version: 0.1
+main: qBW
+load: POSTWORLD
+permissions:
+ qbw.sign.create:
+  default: op
+  description: Used to create join signs.
+ qbw.donate.vip:
+  default: op
+  description: VIP donation
+ qbw.donate.mvp:
+  default: op
+  description: MVP donation
+ qbw.donate.deluxe:
+  default: op
+  description: Deluxe donation
