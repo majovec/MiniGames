@@ -1,14 +1,13 @@
 name: aTopPlayers
 main: AlexBrin\aTopPlayers
-version: 1
-api: 2.0.0
-author: AlexBrin
-website: https://vk.com/alex__brin
+version: 1.0.1
+api: [1.0.0, 2.0.0, 3.0.0-ALPHA1]
+author: BlawoHD
 
 commands:
   atp:
     default: op
-    description: Топ игроков
+    description: Top-Spieler
     permission: atp.use
 permissions:
   atp:
