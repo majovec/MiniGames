@@ -2,8 +2,8 @@ name: ColorMatch
 version: 1.0.1
 api: [1.0.0, 2.0.0, 3.0.0-ALPHA1]
 main: ColorMatch\ColorMatch
-author: Dreambuild
-authors: [BlawoHD]
+author: CreeperFace
+authors: Honzik
 description: Color Match minigame
 
 commands:
